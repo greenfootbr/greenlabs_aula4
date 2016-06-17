@@ -1,6 +1,3 @@
-# greenlabs_aula4
-Projeto criado na aula #4 da Série GreenLabs da iniciativa GreenfootBR do DFJUG.
-
 # GreenLabs Aula #4 - Refatoração! Organizando a casa
 Este foi o projeto do jogo criado durante aula #4 da Série GreenLabs um produto da iniciativa GreenfootBR do DFJUG. 
 Neste projeto nós realizamos rapidamente a refatoração de todo o código criado até aqui, para que seja possível garantir a continuidade do desenvolvimento e também a manutenção do mesmo. Bons estudos!
