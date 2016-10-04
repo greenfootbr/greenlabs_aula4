@@ -7,12 +7,21 @@ Neste projeto nós realizamos rapidamente a refatoração de todo o código cria
 * Explicação prática sobre a divisão de responsabilidade entre os métodos
 * Apresentação de diversas dicas e truques para a programação do dia a dia
 
+## Vídeo Aula
+* [Assista ao vídeo desta aula](https://youtu.be/-H7FZnejx1U)
+
 ## Equipe | Team
 
+** Edição, Produção e Arte
 * Daniel de Oliveira
 * Luciene Cavalcante
 * Aecio Junior
 * Jhonatan Morais - www.getjv.com.br
+
+** Testes e Qualidade
+* Cesar Junior
+* José Raimundo
+* Maicon Oliveira
 
 ## Para mais sobre a iniciativa GreenfootBR acesse:
 * O site da comunidade DFJUG [http://www.dfjug.org](http://www.dfjug.org)
